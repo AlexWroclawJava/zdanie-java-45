@@ -63,10 +63,9 @@ public class Lista {
         }
         System.out.println("Najmniejsza wartość z listy wynosi: " + min);
 
-        // WYSWIETLENIE ROZMIARU LISTY
+        // WYSWIETLENIE ROZMIARU LISTY - dodatkowa opcja
         System.out.print("\nRozmiar stworzonej listy wynosi aktualnie: ");
         int size= names.size();
         System.out.print(size);
-
     }
 }
